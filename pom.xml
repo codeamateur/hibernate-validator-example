@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong.common</groupId>
-	<artifactId>SpringMVC</artifactId>
+	<artifactId>hibernate-validator-example</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>SpringMVC Maven Webapp</name>
+	<name>hibernate-validator-example Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<repositories>
@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>SpringMVC</finalName>
+		<finalName>hibernate-validator-example</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
